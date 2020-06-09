@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day3-Criminal-B
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "Mira, antes yo trabajaba en una f\xE1brica."
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Cu\xE1ntos m\xE1s robots trabajaban en la f\xE1brica peor nos trataban
+      a los humanos as\xED que me un d\xEDa me hart\xE9 y me fui de all\xED."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFParticipaste en las revueltas de las f\xE1bricas? Tuvieron muchos
+      seguidores."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "S\xED, nos trataban como basura. Era necesario."
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Desde que me tom\xE9 las cosas por mi mano se acabaron gran parte de
+      los problemas."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Y empezaron las peleas, los gases y los disparos. No era la mejor forma
+      de solucionarlo.
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Pero aprendieron la lecci\xF3n."
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Por desgracia poco despu\xE9s empezaron los problemas clim\xE1ticos
+      as\xED que muchos huyeron."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Exacto. Por eso el movimiento desapareci\xF3 poco despu\xE9s."
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFNo qued\xF3 un grupo que se convirtieron en bandoleros?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "S\xED, algo as\xED."
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: " Me das la raz\xF3n. Se pudo hacer porque estabais todos. S\xF3lo no
+      lo habr\xEDas conseguido."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: ...
+    npcName: Oliver
+    slowText: 1
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFSaldr\xE1s de la habitaci\xF3n?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: No, necesitamos usar la pieza para arreglar la nave.
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options:
+    - text: Eso lo debe decidir Noah.
+      number: 1
+      methodName: 
+      response: {fileID: 11400000, guid: 1d9cc5816d3ea75498df874f6ebbd996, type: 2}
+      needFood: 0
+    - text: "Noah tiene muchas razones para darnos la pr\xF3tesis. "
+      number: 2
+      methodName: 
+      response: {fileID: 11400000, guid: 8f501353ad920f045afa14c726d0233b, type: 2}
+      needFood: 0

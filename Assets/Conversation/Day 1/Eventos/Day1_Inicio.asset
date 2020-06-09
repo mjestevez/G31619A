@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day1_Inicio
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "\xA1Buenos d\xEDas pasajeros! Si miran desde las ventanas pueden observar
+      unas 16.000 estrellas dependiendo de la potencia de sus receptores \xF3pticos."
+    npcName: IA
+    slowText: 0
+    thinking: 0
+    methodName: IAAudio
+    options: []
+  - message: "Tengo que informarles que se le han entregado una cantidad de raciones
+      igual a la suficiente para dos d\xEDas este*bip*."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Sabemos que esta cantidad es insufi*bip* pero el n\xFAmero de pasajeros
+      es dife*bip* del configurado."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Por ello hemos entregado el resto de raciones a Juno para que pueda
+      dirigir el *bip*to.
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xA1Gracias por su *bip*prensi\xF3n!"
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFQu\xE9? \xA1Yo no quer\xEDa esto!"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Genial, tengo que gestionar la comida adem\xE1s de todo. Pero apenas
+      hay raciones."
+    npcName: 
+    slowText: 0
+    thinking: 1
+    methodName: 
+    options: []
+  - message: "Tendr\xE9 que elegir bien a qui\xE9n se las doy."
+    npcName: 
+    slowText: 0
+    thinking: 1
+    methodName: 
+    options: []
+  - message: "Hoy no he pensado en la Tierra, pensaba que la echar\xEDa m\xE1s de
+      menos."
+    npcName: 
+    slowText: 0
+    thinking: 1
+    methodName: 
+    options: []
+  - message: "Me centr\xE9 tanto en irme que mis \xFAltimos momentos son borrosos."
+    npcName: 
+    slowText: 0
+    thinking: 1
+    methodName: 
+    options: []
+  - message: "Aunque tampoco quedaba nada all\xED."
+    npcName: 
+    slowText: 0
+    thinking: 1
+    methodName: 
+    options: []
+  - message: "\xBFQu\xE9 ocurre?"
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: Temblor
+    options: []
+  - message: Estimados pasajeros. Se ha producido un fallo grave en el motor.
+    npcName: IA
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFQu\xE9 significa eso? \xBFEh?"
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Uno de los componentes necesarios para la refrigeraci\xF3n se ha estropeado."
+    npcName: IA
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "El motor en estas condiciones se ir\xE1 calentando y puede que *bip*
+      antes de que lleguemos a nuestr*bip*."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Por desgracia, no tengo la capacidad de arreglarlo ni el material necesario
+      para ello.
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Les aconsejo que mantengan la calma mientras *bip*.
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xA1\xBFQu\xE9 dices?! El motor va a explotar, no podemos estar tranquilos."
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Como ya he dicho, no disponemos de *bip* para arreglarlo.
+    npcName: IA
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Pero yo s\xED puedo por lo menos hacer que aguante el viaje."
+    npcName: Juno
+    slowText: 0
+    thinking: 1
+    methodName: 
+    options: []
+  - message: "Tengo que encontrar los materiales para poder hacer algo.\r"
+    npcName: 
+    slowText: 0
+    thinking: 1
+    methodName: 
+    options: []

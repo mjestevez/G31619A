@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day5-Infectado
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "\xBFEst\xE1s bien ah\xED dentro?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: No del todo. Llevo horas vomitando. No me siento nada bien.
+    npcName: Adal
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFEs por lo de ayer?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: No estoy seguro. Creo que es porque la enfermedad ha llegado a su peor
+      parte.
+    npcName: Adal
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Necesito llegar ya. No se cu\xE1nto m\xE1s durar\xE9 en esta situaci\xF3n."
+    npcName: Adal
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFHas visto lo que est\xE1 pasando?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "S\xED, por eso he cerrado con pestillo. Si me ve me matar\xE1."
+    npcName: Adal
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Tienes que hacer algo por calmarle o tendremos un accidente.
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "No se c\xF3mo hacerlo. Parece que se ha contagiado de tu enfermedad."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Absurdo. Mi enfermedad nunca se ha contagiado a nadie. Simplemente estaba
+      deseando que algo sucediera para intentar tomar el control.
+    npcName: Adal
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Escucha, atender\xE1 a razones si trabajas su ego, es su punto d\xE9bil."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Sea como sea tienes que quitarle el arma, como sea.
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Eso voy a intentar.
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []

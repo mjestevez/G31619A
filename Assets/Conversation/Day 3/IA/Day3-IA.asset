@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day3-IA
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "\xBFNo hay nada que podamos usar para arreglar esto?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Negativo. No tenemos ninguna pieza en la nave que podamos usar para
+      esto. El mobiliario est\xE1 soldado a la estructura."
+    npcName: IA
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Siento no poder *Bip*.
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Me sorprenden todo estos errores. \xBFNo se ocupan de actualizarte
+      y mantener la nave en buen estado?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "No puedo revelar informaci\xF3n sobre mis due\xF1os o sus protocolos
+      de actuaci\xF3n."
+    npcName: IA
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Ya, no puedes. \xBFLa tienes acaso?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Se realiza un borrado completo de memoria operativa tras cada viaje.
+      Desconozco cu\xE1ntos viajes ha realizado la nave ni los problemas encontrados."
+    npcName: IA
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Vamos a echar un vistazo.
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Juno est\xE1s realizando un uso indebido de la inteligencia controladora
+      de la nave. Te pido que desistas."
+    npcName: IA
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Es verdad. Tu memoria interna est\xE1 libre en su mayor\xEDa. Apenas
+      la est\xE1s usando."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "No hay marcas de logos de ning\xFAn tipo."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Exacto. Adem\xE1s t\xFA has contactado con mis due\xF1os para conseguir
+      un viaje."
+    npcName: IA
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "No es as\xED. Era un sistema autom\xE1tico y una voz rob\xF3tica que
+      no daba nombres. "
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Todos estamos aqu\xED porque no tenemos otra opci\xF3n. No conocemos
+      como es nuestro destino, que nos espera ni qui\xE9n nos est\xE1 llevando."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: Day3InitialEvent
+    options: []
+  - message: "Lo tendr\xE9 en cuenta."
+    npcName: IA
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []

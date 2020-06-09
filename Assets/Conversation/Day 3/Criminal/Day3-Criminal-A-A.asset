@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day3-Criminal-A-A
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "\xBFDe verdad te gustar\xEDa que te arrebataran lo que tienes? Nisiquiera
+      le has dado la oportunidad de elegir por s\xED mismo."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Y lo peor es que le has quitado la oportunidad de sacrificarse por
+      el grupo. \xC9l estar\xE1 deseando dar su pierna por ayudar."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Si hubieras hablado con \xE9l te la habr\xEDa dado y seguro que nadie
+      habr\xEDa tenido que pelearse por ella."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xA1Mierda!"
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Llevas raz\xF3n. Le he quitado la opci\xF3n de ayudarnos por su propia
+      voluntad. Le he quitado su capacidad de ayudar."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Creo que he metido la pata.
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Toma, d\xE1sela. Dile que siento mucho haber hecho esto."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: Day3CriminalAppear
+    options: []
+  - message: "Deber\xEDa haber confiado en que tomara la decisi\xF3n correcta."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Igual que har\xEDa yo en su situaci\xF3n."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Eso espero.
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options:
+    - text: "Usar la pr\xF3tesis para arreglar la nave"
+      number: 1
+      methodName: Day3EndingA
+      response: {fileID: 11400000, guid: 87e782994a7807641b3025f4b1f00cc6, type: 2}
+    - text: No puedo dejarle sin pierna
+      number: 2
+      methodName: Day3EndingB
+      response: {fileID: 11400000, guid: 87e782994a7807641b3025f4b1f00cc6, type: 2}

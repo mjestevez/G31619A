@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day4-Enfermo-EndingA
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "Muchas gracias por tu sacrificio. Har\xE9 lo posible por arreglar esto."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: SubtractFood
+    options: []
+  - message: "Espero que te sea \xFAtil."
+    npcName: Adal
+    slowText: 0
+    thinking: 0
+    methodName: AddMaterials
+    options: []
+  - message: "Espero que esto funcione... \xA1Hora de reparar!"
+    npcName: Juno
+    slowText: 0
+    thinking: 1
+    methodName: ActiveRepair
+    options: []

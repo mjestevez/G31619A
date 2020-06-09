@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MENU.unity
+    guid: b089e64c4dc20524ebb4113e3738c308
+  - enabled: 1
+    path: Assets/Scenes/Day0.unity
+    guid: b7cb98ab61b22dd40ba0bd3f8bcff796
+  - enabled: 1
+    path: Assets/Scenes/Day1.unity
+    guid: dbeb2f1b0e9174f4a90b5a274c7d1cc8
+  - enabled: 1
+    path: Assets/Scenes/Day2.unity
+    guid: 4d3272045e973454da455cef68c732f9
+  - enabled: 1
+    path: Assets/Scenes/Day3.unity
+    guid: 197ed4d270715024a9406a2ae5f17c0b
+  - enabled: 1
+    path: Assets/Scenes/Day4.unity
+    guid: 1c4ca7ac1e5b671408655e4f9f260e9b
+  - enabled: 1
+    path: Assets/Scenes/Day5.unity
+    guid: 5fcbc82f399e56847ba15b843ffcf15f
+  - enabled: 1
+    path: Assets/Scenes/Day6.unity
+    guid: 985bc472e8a62034092cce8771a92b87
+  - enabled: 1
+    path: Assets/Scenes/Ending_Bad.unity
+    guid: 17e739269f026804aa151511fe3ca62f
+  - enabled: 1
+    path: Assets/Scenes/Ending_Good.unity
+    guid: 033b6329f26908e45a7303a6a64eac07
+  m_configObjects: {}

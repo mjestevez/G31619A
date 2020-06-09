@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day1-Mujer
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "\xBFQu\xE9 quieres ser de mayor?"
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xA1Yo quiero ser profesor como papa!"
+    npcName: David
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xA1Claro que s\xED! Pero tendr\xE1s que estudiar mucho para llegar
+      a ser un buen profesor."
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "S\xED s\xED, seguro que pap\xE1 me ayuda cu\xE1ndo lleguemos al planeta."
+    npcName: David
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "... S\xED, as\xED es."
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Pero eso no quita que tendr\xE1s que esforzarte."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xA1S\xED! \xA1S\xED! Voy a jugar."
+    npcName: David
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Vale vale.
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Hola se\xF1ora."
+    npcName: David
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Hola peque\xF1o. \xBFNo habr\xE1s visto piezas met\xE1licas por la
+      nave?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Lo siento se\xF1ora, pero no."
+    npcName: David
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: No creo que te podamos ayudar. Nosotros apenas hemos traido lo que llevamos
+      encima. No te puedo ayudar.
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFNo tienes nada met\xE1lico?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: ...No.
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Me est\xE1s mintiendo."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Tengo mi anillo de boda. Es de oro.
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Podr\xEDa servir para arreglar la refrigeraci\xF3n del motor. Por lo
+      menos hasta que terminemos el viaje."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Peque \xBFQu\xE9 te parece si vas por algo de agua para m\xED?"
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Vaaaale.
+    npcName: David
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Es lo \xFAltimo que me queda de mi marido. No te lo pienso dar."
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: Day1Nino
+    options:
+    - text: Pensaba que tu marido os estaba esperando en el planeta.
+      number: 1
+      methodName: 
+      response: {fileID: 11400000, guid: ea6794204e38ce747be6883b55738b30, type: 2}
+      needFood: 0
+    - text: "\xBFY qu\xE9 pasa con tu hijo si la nave falla? "
+      number: 2
+      methodName: 
+      response: {fileID: 11400000, guid: d0eef500ae8efec418e68f437f89cbb5, type: 2}
+      needFood: 0

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day5-Criminal-A-B
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: Ni a mi me has dado ninguna. Solo le has dado a aquella gente de la
+      que necesitabas cosas.
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Te dije que las guardaras porque el resto nos estamos muriendo de hambre.
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Pero las has regalado muy alegremente. \xBFTe queda alguna quiz\xE1s?"
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: No tienes ni idea de como repartir. Los fuertes se las tienen que quedar.
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Si pasara algo el resto no tendr\xEDa ni idea de que hacer. T\xFA y
+      yo somos los \xFAnicos que podemos hacer algo. Y vas y les das las raciones
+      a ellos."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Ahora estoy d\xE9bil y me has obligado a tener que usar mi arma para
+      actuar."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options:
+    - text: "\xBFPor qu\xE9 necesitas ser t\xFA el lider?"
+      number: 1
+      methodName: 
+      response: {fileID: 11400000, guid: f55305fc8cbc50547a26eaf307161409, type: 2}
+      needFood: 0
+    - text: "T\xFA no has hecho nada por el grupo."
+      number: 2
+      methodName: 
+      response: {fileID: 11400000, guid: 3a8f1c90b3e016842bd734e3b46a3522, type: 2}
+      needFood: 0

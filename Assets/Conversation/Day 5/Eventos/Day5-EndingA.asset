@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day5-EndingA
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "Ya est\xE1. Con este \xFAltimo retoque ya estamos listos."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "El motor est\xE1 en marcha y listo para continuar el viaje."
+    npcName: IA
+    slowText: 0
+    thinking: 0
+    methodName: IAAudio
+    options: []
+  - message: Gracias por arreglarlo. Creo que voy a descansar un rato y a calmarme,
+      me siento tenso.
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Haces bien.
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Menos mal. Todo va bien.
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Ma\xF1ana llegamos, ma\xF1ana llegamos."
+    npcName: 
+    slowText: 0
+    thinking: 1
+    methodName: 
+    options: []
+  - message: "La tensi\xF3n me est\xE1 matando."
+    npcName: 
+    slowText: 0
+    thinking: 1
+    methodName: 
+    options: []
+  - message: "Una \xFAltima vez que tendr\xE9 que descansar antes de llegar."
+    npcName: 
+    slowText: 0
+    thinking: 1
+    methodName: 
+    options: []

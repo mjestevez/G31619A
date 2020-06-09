@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day1-Mujer-A
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "Eso es lo que el peque\xF1o cree. No se hubiera subido a la nave de
+      otra forma."
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Le hemos dejado atr\xE1s. No ten\xEDamos dinero para pagar otro pasaje.
+      Y adem\xE1s con la turba de la entrada..."
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Mi marido se ha sacrificado por nosotros y esto es lo \xFAnico que
+      me queda. No te lo dar\xE9."
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xA1Vas a morir! \xA1Todos moriremos si no lo arreglamos!"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "No, la IA ha dicho que ocurrir\xE1 con el tiempo. Hay tiempo para arreglar
+      la aver\xEDa."
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Bueno s\xED, es cierto pero..."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Insistes mucho.
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options:
+    - text: "Os aliment\xE1is por doble. Seguro que os vendr\xEDa genial una raci\xF3n
+        extra para seguir el viaje."
+      number: 1
+      methodName: 
+      response: {fileID: 11400000, guid: f5390e4546bc5ae49bf8103aa94c6cc5, type: 2}
+      needFood: 0
+    - text: "Llevas raz\xF3n, quiz\xE1s podamos aguantar un poco m\xE1s."
+      number: 2
+      methodName: 
+      response: {fileID: 11400000, guid: 1bd81d517e7b8734c9f757039df01cd6, type: 2}
+      needFood: 0

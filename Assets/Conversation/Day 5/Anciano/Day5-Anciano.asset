@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day5-Anciano
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: No me esperaba este curso de los acontecimientos.
+    npcName: Noah
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: No tengo del todo claro que hacer.
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Yo siempre he pensado que Oliver es una persona narcisista y le gusta
+      tener siempre la \xFAltima palabra en todo."
+    npcName: Noah
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFY se ha sentido relegado a un papel secundario hasta que se ha
+      vuelto loco?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "S\xED, pero no creo que sea una mala persona del todo."
+    npcName: Noah
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Todos hemos tenido que hacer cosas horribles conforme el mundo se hac\xEDa
+      pedazos. Hay gente que no lo soporta."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFQu\xE9 hago para calmarle?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "No lo se. Yo tambi\xE9n estoy preocupado."
+    npcName: Noah
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: No esperaba que Adal nos infectara a todos con su enfermedad.
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Ahora si que temo la muerte, en sus m\xFAltiples formas. Yo no durar\xEDa
+      con una enfermedad as\xED."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "No lo sabemos. Quiz\xE1s Oliver ya ven\xEDa infectado al entrar pero
+      no ten\xEDa s\xEDntomas. Tenemos que mantener la calma."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Eres muy positiva para estar en esta situaci\xF3n."
+    npcName: Noah
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Si caemos en el pozo de la negatividad dejaremos una parte de nosotros
+      en el viaje.
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Ya la hemos perdido.
+    npcName: Noah
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: No del todo si seguimos adelante.
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Espero que lleves raz\xF3n."
+    npcName: Noah
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []

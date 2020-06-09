@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day3-Enfermo
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "\xBFHas hablado con Noah?"
+    npcName: Adal
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "S\xED, me ha contado lo que ocurre."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Se ha encerrado en la ba\xF1o. Ha sido muy est\xFApido, casi le ha
+      arrancado la pr\xF3tesis."
+    npcName: Adal
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: He intentado detenerle pero se ha escondido.
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Me parece horrible hacerlo de esa forma. Ahora apenas puede moverse.
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Voy a hablar con \xE9l y le convencer\xE9 para que salga. Pero si le
+      convenzo para salir tienes que evitar hacerle nada."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFPero t\xFA has visto los problemas que da? Si casi no me quita
+      ojo porque teme que le *cof cof cof cof cof*."
+    npcName: Adal
+    slowText: 0
+    thinking: 0
+    methodName: Toser
+    options: []
+  - message: "Ponerte nervioso solo empeorar\xE1 tus s\xEDntomas. Yo me ocupar\xE9
+      de \xE9l y har\xE9 que salga por su propio pie. Luego veremos."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Est\xE1 bien."
+    npcName: Adal
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []

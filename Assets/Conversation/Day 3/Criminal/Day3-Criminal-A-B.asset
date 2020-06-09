@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day3-Criminal-A-B
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "\xBFA qu\xE9 te refieres? Te dejar\xE1 la decisi\xF3n a t\xED y seguro
+      que te echas atr\xE1s. Est\xE1s desarrollando una relaci\xF3n afectiva con
+      \xE9l."
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "S\xED, pero queremos sobrevivir. Todos nosotros."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFY le quitar\xEDas al pobre anciano su apoyo para andar?"
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "En nuestro destino seguro que le pueden ayudar mucho mejor. No echar\xE1
+      en falta una pr\xF3tesis tan arc\xE1ica cu\xE1ndo lleguemos."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "En eso llevas toda la raz\xF3n. En una semana o dos tendr\xE1 una pierna
+      cibern\xE9tica y no necesitar\xE1 este cacharro."
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Toma, d\xE1sela. Dile que siento mucho haber hecho esto."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: Day3CriminalAppear
+    options: []
+  - message: "Deber\xEDa haber confiado en que tomara la decisi\xF3n correcta."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Igual que har\xEDa yo en su situaci\xF3n."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Eso espero.
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options:
+    - text: "Usar la pr\xF3tesis para arreglar la nave"
+      number: 1
+      methodName: Day3EndingA
+      response: {fileID: 11400000, guid: 87e782994a7807641b3025f4b1f00cc6, type: 2}
+    - text: No puedo dejarle sin pierna
+      number: 2
+      methodName: Day3EndingB
+      response: {fileID: 11400000, guid: 87e782994a7807641b3025f4b1f00cc6, type: 2}

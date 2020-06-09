@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day3-EndingA
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "\xBFLo has conseguido?"
+    npcName: Noah
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Tengo la pr\xF3tesis pero..."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Oliver tiene raz\xF3n, es perfecta para arreglar los problemas de la
+      nave."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Lo entiendo.
+    npcName: Noah
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFSeguro?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xA1Claro! Es lo mejor para mantener la nave en marcha."
+    npcName: Noah
+    slowText: 0
+    thinking: 0
+    methodName: AddMaterials
+    options: []
+  - message: "Si de verdad t\xFA crees que es lo mejor para que sigamos nuestro viaje
+      confio en t\xED. Est\xE1s teniendo muy buen juicio para decidir."
+    npcName: Noah
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Te voy a dar una raci\xF3n de comida."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: No es necesario.
+    npcName: Noah
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "No aceptar\xE9 un no por respuesta."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Vale vale, est\xE1 bien. Gracias."
+    npcName: Noah
+    slowText: 0
+    thinking: 0
+    methodName: SubtractFood
+    options: []
+  - message: "\xBFEst\xE1s segura? \xBFTe ha comido el coco?"
+    npcName: Adal
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: No, necesitamos arreglar la nave. Por si acaso. Es lo mejor.
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Espero que sepas lo que haces.
+    npcName: Adal
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Yo tambi\xE9n."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Hora de bajar a reparar la nave.
+    npcName: Juno
+    slowText: 0
+    thinking: 1
+    methodName: ActiveRepair
+    options: []

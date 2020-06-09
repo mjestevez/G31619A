@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day6-Ending
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "Pasajeros, estamos entrando en la atm\xF3sfera del planeta. En breve
+      desenbarcamos."
+    npcName: IA
+    slowText: 0
+    thinking: 0
+    methodName: IAAudio
+    options: []
+  - message: "Estoy deseando ver de nuevo el... \xBFC\xF3mo se llama la estrella?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: ' Creo que le han puesto de nombre Sol. Por no perder la costumbre.'
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Que cutre.
+    npcName: David
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xA1Oye! Est\xE1 bien que lo hagan. Es una estrella algo parecida."
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xA1Parad! Es un momento importante, exige silencio."
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Ya ya, ya casi entramos.
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Me est\xE1n entrando las instrucciones para aterrizar."
+    npcName: IA
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: ...
+    npcName: 
+    slowText: 2
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Por favor, entrad en la c\xE1psula para aterrizajes."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: IdaNegro
+    options: []
+  - message: Siento tener que hacer esto pero los protocolos son claros. Mucha suerte.
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options:
+    - text: "\xBFA qu\xE9 te refieres?"
+      number: 1
+      methodName: GoodEnding
+      response: {fileID: 11400000, guid: c8bdd5402f0401941ad8b235f76ab4e0, type: 2}
+      needFood: 0

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day0-Anciano
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "\xA1Chica! Soy Noah \xA1Qu\xE9 locura de entrada! \xBFHas visto una
+      mujer mayor entrar?"
+    npcName: Noah
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "No, apenas he podido ver nada antes de conseguir entrar. Yo tambi\xE9n
+      estoy sola."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Espero que est\xE9 bien, jam\xE1s me perdonar\xEDa..."
+    npcName: Noah
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "*Murmura para s\xED*"
+    npcName: Noah
+    slowText: 0
+    thinking: 1
+    methodName: 
+    options: []
+  - message: Eh, creo que ha dejado de hablar conmigo.
+    npcName: Juno
+    slowText: 0
+    thinking: 1
+    methodName: 
+    options: []

@@ -1,0 +1,944 @@
+fileFormatVersion: 2
+guid: 9a35fccca44034f41b5b5748f3bd586a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8406640847552524001
+    second: Destruccion_0
+  - first:
+      213: 7871829899132252222
+    second: Destruccion_1
+  - first:
+      213: -5177254335836371821
+    second: Destruccion_2
+  - first:
+      213: -6327032826666656685
+    second: Destruccion_3
+  - first:
+      213: 4046650824959487208
+    second: Destruccion_4
+  - first:
+      213: 2335076097930010607
+    second: Destruccion_5
+  - first:
+      213: 597679749004943673
+    second: Destruccion_6
+  - first:
+      213: -8053878491663329708
+    second: Destruccion_7
+  - first:
+      213: -6853009454260337389
+    second: Destruccion_8
+  - first:
+      213: -5112291756087268162
+    second: Destruccion_9
+  - first:
+      213: 3951383182569690116
+    second: Destruccion_10
+  - first:
+      213: 96172394966336312
+    second: Destruccion_11
+  - first:
+      213: 9210000227906336845
+    second: Destruccion_12
+  - first:
+      213: 2796617675869994336
+    second: Destruccion_13
+  - first:
+      213: -7301449470222450545
+    second: Destruccion_14
+  - first:
+      213: -6282063928809677394
+    second: Destruccion_15
+  - first:
+      213: 7148252965890511198
+    second: Destruccion_16
+  - first:
+      213: -6655037915103298889
+    second: Destruccion_17
+  - first:
+      213: -5816507794267083219
+    second: Destruccion_18
+  - first:
+      213: 5415630542723538996
+    second: Destruccion_19
+  - first:
+      213: -6099021370434040605
+    second: Destruccion_20
+  - first:
+      213: -5211302783211643328
+    second: Destruccion_21
+  - first:
+      213: -671445206093509768
+    second: Destruccion_22
+  - first:
+      213: 2893497201346509036
+    second: Destruccion_23
+  - first:
+      213: 4897762700272210841
+    second: Destruccion_24
+  - first:
+      213: 699254177180747744
+    second: Destruccion_25
+  - first:
+      213: 5499148073695540331
+    second: Destruccion_26
+  - first:
+      213: -4683964538504223178
+    second: Destruccion_27
+  - first:
+      213: 6003896118489129660
+    second: Destruccion_28
+  - first:
+      213: -7041529909233572148
+    second: Destruccion_29
+  - first:
+      213: 117333760675421235
+    second: Destruccion_30
+  - first:
+      213: 2177800385226848482
+    second: Destruccion_31
+  - first:
+      213: -2079306945891145698
+    second: Destruccion_32
+  - first:
+      213: 2758347453790360755
+    second: Destruccion_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Destruccion_0
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1025
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11d75f70bc955b80800000000000000
+      internalID: -8406640847552524001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_1
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 993
+        width: 392
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30b316269b5e3d60800000000000000
+      internalID: 7871829899132252222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_2
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 739
+        width: 300
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3944f90ac92b628b0800000000000000
+      internalID: -5177254335836371821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 914
+        width: 227
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c5c4c8a2dd138a0800000000000000
+      internalID: -6327032826666656685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_4
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 994
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec60c73c77982830800000000000000
+      internalID: 4046650824959487208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_5
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 989
+        width: 560
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef9f9cd65bd76020800000000000000
+      internalID: 2335076097930010607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 703
+        width: 588
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93162e8a0926b4800800000000000000
+      internalID: 597679749004943673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_7
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 926
+        width: 343
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4569f30ee20ea3090800000000000000
+      internalID: -8053878491663329708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_8
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 938
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3154b6cc53835e0a0800000000000000
+      internalID: -6853009454260337389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_9
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 915
+        width: 77
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebca242ebbd7d09b0800000000000000
+      internalID: -5112291756087268162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_10
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 894
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404d488b11226d630800000000000000
+      internalID: 3951383182569690116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_11
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 862
+        width: 86
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833ca2f984ca55100800000000000000
+      internalID: 96172394966336312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_12
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 585
+        width: 563
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48bf9d196e70df70800000000000000
+      internalID: 9210000227906336845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_13
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 774
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d3fc685f49fc620800000000000000
+      internalID: 2796617675869994336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_14
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 744
+        width: 414
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f804ded346a0caa90800000000000000
+      internalID: -7301449470222450545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_15
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 766
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead110bf320a1d8a0800000000000000
+      internalID: -6282063928809677394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_16
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 762
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51598c0332b33360800000000000000
+      internalID: 7148252965890511198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_17
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 398
+        width: 261
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7baf28fa64e84a3a0800000000000000
+      internalID: -6655037915103298889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_18
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 662
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e6b617afc974fa0800000000000000
+      internalID: -5816507794267083219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 458
+        width: 357
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430eacd094f282b40800000000000000
+      internalID: 5415630542723538996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_20
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 590
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec43c9a06ceb5ba0800000000000000
+      internalID: -6099021370434040605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_21
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 325
+        width: 464
+        height: 347
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e5aa5babbbda7b0800000000000000
+      internalID: -5211302783211643328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_22
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 579
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b48ac742c8ea6f0800000000000000
+      internalID: -671445206093509768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 570
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce878dccf54c72820800000000000000
+      internalID: 2893497201346509036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_24
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 558
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99312e7f93958f340800000000000000
+      internalID: 4897762700272210841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_25
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 557
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7019628ff34b900800000000000000
+      internalID: 699254177180747744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 9
+        width: 597
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6475eb8906e05c40800000000000000
+      internalID: 5499148073695540331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_27
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 252
+        width: 54
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636ede5a1173ffeb0800000000000000
+      internalID: -4683964538504223178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_28
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 324
+        width: 125
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb224e2b5bf125350800000000000000
+      internalID: 6003896118489129660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_29
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 60
+        width: 264
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc628dcead5774e90800000000000000
+      internalID: -7041529909233572148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_30
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 263
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c18350f6ad0a100800000000000000
+      internalID: 117333760675421235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_31
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 99
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8b72179e9193e10800000000000000
+      internalID: 2177800385226848482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_32
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 27
+        width: 241
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18e72f6951d423e0800000000000000
+      internalID: -2079306945891145698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destruccion_33
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 14
+        width: 354
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b41746156e974620800000000000000
+      internalID: 2758347453790360755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

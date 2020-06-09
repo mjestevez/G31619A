@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day2-Mujer-B-B
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "Necesitamos ayuda. Todos est\xE1n muy desanimados y necesitan aprender
+      a ayudarse y a tener esperanza."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Es una lecci\xF3n que tienen que aprender todos. Incluida tu madre.
+      T\xFA podr\xEDas ayudarme haciendo un peque\xF1o sacrificio."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Con tu juguete podr\xEDamos arreglar el fallo de la nave y as\xED animar
+      a todos a seguir adelante."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: No lo tengo claro.
+    npcName: David
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Bueno, es el primer paso. Dicen que el mejor maestro no solo te ense\xF1a
+      a sumar, tambi\xE9n te ense\xF1a a ser mejor persona."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFNo te parece buena idea empezar ahora mismo?"
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xA1Quiero ser el mejor!\xA1Hag\xE1moslo!"
+    npcName: David
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Cuidado. \xBFSeguro que vamos a hacer esto? No volver\xE1s a ver el
+      mu\xF1eco."
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xA1S\xED!"
+    npcName: David
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFY t\xFA? \xBFSeguro que quieres hacerlo?"
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options:
+    - text: Necesitamos reparar la nave.
+      number: 1
+      methodName: 
+      response: {fileID: 11400000, guid: f8d0ad254614a664b972f29c1eab1d91, type: 2}
+      needFood: 0
+    - text: "No, he cambiado de opini\xF3n. El ni\xF1o no tiene que pasarlo mal."
+      number: 2
+      methodName: 
+      response: {fileID: 11400000, guid: 364d2e8130be1f9499e0b93c9ea9289e, type: 2}
+      needFood: 0

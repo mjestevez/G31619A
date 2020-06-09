@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day5-Criminal-B
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "\xBFAhora me est\xE1s escuchando? Ya es tarde. "
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Has regalado raciones a quien no lo merec\xEDa. Has estado confraternizando
+      con ese cacharro."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Y adem\xE1s te has hecho amiga de unos completos desconocidos que no
+      merecen la pena salvar."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Un anciano al borde de la muerte, un foco de infecci\xF3n andante,
+      una mujer que obviamente no puede hacer nada por s\xED misma y un ni\xF1o peque\xF1o."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Yo podr\xEDa haber sido tu m\xE1s fuerte aliado pero he visto tus miradas.
+      T\xFA me odias."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "No es as\xED. Siempre has sido muy brusco."
+    npcName: juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: 'Se nota que te encanta juzgar a la gente por sus decisiones. '
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options:
+    - text: "\xBFPor qu\xE9 necesitas ser t\xFA el lider?"
+      number: 1
+      methodName: 
+      response: {fileID: 11400000, guid: f55305fc8cbc50547a26eaf307161409, type: 2}
+      needFood: 0
+    - text: "T\xFA no has hecho nada por el grupo."
+      number: 2
+      methodName: 
+      response: {fileID: 11400000, guid: 3a8f1c90b3e016842bd734e3b46a3522, type: 2}
+      needFood: 0

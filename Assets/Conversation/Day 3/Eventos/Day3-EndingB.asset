@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day3-EndingB
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: Toma, tu protesis.
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFNo la vas a usar para la nave?"
+    npcName: Noah
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "No, t\xFA la necesitas m\xE1s. Podemos aguantar sin ning\xFAn tipo
+      de problema."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Est\xE1 bien, gracias."
+    npcName: Noah
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "He desviado el problema al rendimiento del motor. La luz aguantar\xE1
+      pero tenemos un problema con la calefacci\xF3n. No podremos encenderla."
+    npcName: IA
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Os aconsejo que os abrigu\xE9is lo m\xE1ximo posible."
+    npcName: IA
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFHe hecho lo correcto? Ya no puedo echarme atr\xE1s."
+    npcName: Juno
+    slowText: 0
+    thinking: 1
+    methodName: AddFallos
+    options: []
+  - message: "Descansar\xE9 un poco. Demasiadas emociones de golpe."
+    npcName: Juno
+    slowText: 0
+    thinking: 1
+    methodName: ActiveBed
+    options: []

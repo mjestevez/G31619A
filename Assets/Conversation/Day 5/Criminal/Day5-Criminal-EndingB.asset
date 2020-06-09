@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day5-Criminal-EndingB
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "\xA1Como no!"
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Sab\xEDa que cu\xE1ndo llegara mi turno me decepcionar\xEDas."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xA1Se acab\xF3! Voy a tomar el mando de la nave por la fuerza."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xA1Pedazo de chatarra! Quiero hablar con los que dirigen las naves."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: IdaNegro
+    options: []
+  - message: "No puedo dar esa informaci\xF3n. Recibo un borrado de memoria en cada
+      viaje, desconozco todos esos datos."
+    npcName: IA
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: No te creo. Dame el control de la nave.
+    npcName: Criminal
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "No puedo mentir, no est\xE1 en mis protocolos."
+    npcName: IA
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFQu\xE9? Pero si puedes ocultar informaci\xF3n. Es imposible que
+      no sepas quien maneja la nave."
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFNos llevas realmente al planeta? \xBFD\xF3nde estamos?"
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "A un d\xEDa de espacio lum\xEDnico. Llegaremos muy pronto a nuestro
+      destino."
+    npcName: IA
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Ya, a bordo de una nave dirigida por una IA medio destrozada y sin memoria.
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xA1No lo permitir\xE9!"
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFPero qu\xE9 has hecho?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: Disparo
+    options: []
+  - message: "\xA1Nos has condenado a todos!"
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFPero qu\xE9?"
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xA1Por tu culpa!"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: Day5EndB
+    options:
+    - text: "\xA1Es el fin!"
+      number: 0
+      methodName: GameOver
+      response: {fileID: 11400000, guid: c8bdd5402f0401941ad8b235f76ab4e0, type: 2}
+      needFood: 0

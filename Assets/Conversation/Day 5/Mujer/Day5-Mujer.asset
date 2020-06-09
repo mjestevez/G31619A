@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day5-Mujer
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: Todo ha ido de mal en peor desde que subimos a esta maldita nave.
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: No se que hacer, esto me sobrepasa.
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Voy a convencerle para que baje el arma. Necesitar\xEDa ayuda. \xBFQu\xE9
+      pod\xE9is decirme de \xE9l?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Se que es un tipo peligroso. Que desde que hemos llegado no deja de
+      quejarse de todo y quiere ser el lider.
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Pero le he estado evitando as\xED que no te puedo decir m\xE1s."
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Quedaos aqu\xED hasta que todo esto termine."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []

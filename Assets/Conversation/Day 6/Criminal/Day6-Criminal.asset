@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day6-Criminal
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: Siento mucho lo de ayer. Parece que la enfermedad no es la misma que
+      la de Adal  porque solo tengo problemas en la piel.
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFC\xF3mo es posible que hayas enfermado?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Hay unos gases que usan para dispersar multitudes y producen picores.
+      Si no se tratan acaban produciendo problemas cut\xE1neos. Creo que eso es lo
+      que me pasa."
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Se dar\xE1n cuenta de que soy un criminal y me matar\xE1n."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "No les dejaremos. Vamos a salir todos juntos y no podr\xE1n comprobar
+      quien eres. Ser\xE1s libre."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Gracias, no tendr\xEDas que hacer nada por m\xED despu\xE9s de todos
+      los problemas que he dado."
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Me vale con que hayas aprendido que las cosas se pueden resolver con
+      la palabra. Quiz\xE1s as\xED tengas m\xE1s \xE9xito y no tengan que atacarte."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Llevas raz\xF3n. En fin, estoy deseando salir de aqu\xED. Nos vemos
+      m\xE1s tarde."
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []

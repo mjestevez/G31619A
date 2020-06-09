@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day4-Criminal
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: Estamos jodidos.
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFT\xFA crees?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "S\xED. Si entre hoy y ma\xF1ana sale otro problema m\xE1s los motores
+      pueden explotar. Ten mucho cuidado con lo que eliges, por favor."
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Si te dejas llevar por devaneos sentimentales puede que muramos muy
+      pronto.
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Pensaba que te ablandaste ayer.
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: No, solo le di la oportunidad de ayudar por su cuenta. No comparto que
+      tengas que darles comida a cambio de quitarles posesiones.
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFY no tienes nada que pueda ayudarme?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Viajo muy ligero. Si te sirve una arm\xF3nica..."
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: No, por desgracia no.
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Si tenemos que racionar el ox\xEDgeno tendremos que tener mucho cuidado
+      con Adal."
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFPor qu\xE9?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Porque tiene problemas para respirar. De hecho tiene un inhalador para
+      no toser demasiado. Eso le har\xE1 consumir m\xE1s ox\xEDgeno de la cuenta."
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Oh, no recordaba que lo ten\xEDa."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Apenas le veo usarlo.
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Pero no te preocupes. No creo que necesitamos racionar el ox\xEDgeno."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Si necesitas controlarles yo puedo ponerme duro con ellos.
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: Day4Event
+    options: []
+  - message: "No har\xE1 falta."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []

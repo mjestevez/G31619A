@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day4-Mujer
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "Venga peque\xF1o, te estoy buscando. \xBFD\xF3nde est\xE1s?"
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xA1Je je je!"
+    npcName: David
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "No, definitivamente no se d\xF3nde est\xE1s. Voy a buscar por ah\xED."
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "No quer\xEDa que viera lo nervioso que est\xE1 todo el mundo. No servir\xE1
+      de mucho pero as\xED lo tendr\xE9 entretenido un rato."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFC\xF3mo llev\xE1is la comida?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: " No demasiado mal. \xC9l est\xE1 comiendo algo normal, pero yo creo
+      que me dar\xE9 un banquete al llegar a nuestro destino."
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Pero no duermo. Me despierto nerviosa cada d\xEDa por ver que nos vamos
+      a encontrar. Est\xE1 siendo duro."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "S\xED, s\xED que lo est\xE1 siendo. Adem\xE1s me siento mal por tener
+      que quitar cosas a la gente para arreglar la nave."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Bueno, no es muy divertido cu\xE1ndo te toca a t\xED. Pero por otro
+      lado piensa que t\xFA lo est\xE1s haciendo todos los d\xEDas.  Dar un anillo
+      o una pr\xF3tesis est\xE1 bien pero sin tus herramientas no podr\xEDas darle
+      forma."
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "No servir\xEDa de nada el sacrificio. Por lo menos podemos seguir el
+      viaje gracias a t\xED."
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Eso es cierto. En fin, debo seguir.
+    npcName: Juno
+    slowText: 0.02
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFHAS MIRADO EN LA HABITACI\xD3N?"
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "No, voy a probar ah\xED. Gracias."
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []

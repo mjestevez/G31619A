@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day5-Criminal-C-B
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "\xBFQu\xE9 gente?"
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Toda aquella gente que ha muerto desde que empezaste tu revuelta.
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Tanto gente inocente como tus aliados y tus enemigos.
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Su sacrificio habr\xE1 sido en vano si no llegamos hasta nuestro destino."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFVas a dejar que toda aquella gente que se ha quedado atr\xE1s muera
+      en vano?"
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "No, no puedo. He perdido demasiado como para acabar de esta forma.
+      Llevas raz\xF3n, debemos llegar a nuestro destino."
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Est\xE1 bien, pero quiero el mismo trato que el resto: dame una raci\xF3n.
+      No aguantar\xE9 sin comer."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options:
+    - text: "Toma la \xFAltima raci\xF3n que me queda."
+      number: 0
+      methodName: 
+      response: {fileID: 11400000, guid: 9f662a47ab0caa1409f9f07fba7b7bd6, type: 2}
+      needFood: 1
+    - text: No me quedan raciones.
+      number: 0
+      methodName: 
+      response: {fileID: 11400000, guid: cd94997c67d37e041be39bc3d5ca945f, type: 2}
+      needFood: 0

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day6-IA
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "\xBFNos echar\xE1s de menos?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "No tengo sentimientos como vosotros. Pero si reconozco que os echar\xE9
+      de menos a un nivel \"intelectual\". Ha sido una aventura llena de problemas
+      pero tambi\xE9n de gente interesante."
+    npcName: IA
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Sobre todo t\xFA. Has sabido navegar entre los problemas  y ayudar
+      a la gente a seguir adelante. "
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Es bastante notorio y seguro que no hay mucha gente como t\xFA."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Te lo agradezco. Nunca una m\xE1quina me hab\xEDa elogiado."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: No soy como el resto.
+    npcName: IA
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day2-Mujer-EndingA
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "\xBFSer\xE1s fuerte por todos nosotros?"
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "S\xED, seguro que podr\xE9."
+    npcName: David
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xA1Toma el juguete!"
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: Day2ChangeSprite
+    options: []
+  - message: "Los ojos de ese ni\xF1o est\xE1n a punto de generar una cascada de
+      l\xE1grimas."
+    npcName: Juno
+    slowText: 0
+    thinking: 1
+    methodName: AddMaterials
+    options: []
+  - message: "Tomad a cambio una raci\xF3n de comida."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: SubtractFood
+    options: []
+  - message: Tranquilo. No pasa nada. Lo hemos hecho bien.
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: ActiveRepair
+    options: []
+  - message: Es hora de bajar a reparar la nave.
+    npcName: Juno
+    slowText: 0
+    thinking: 1
+    methodName: 
+    options: []

@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: DAy2-Mujer-A-A
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "\xBFA qu\xE9 te refieres?"
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "A su edad su mayor soporte es su madre y lo suyo es que est\xE9s siempre
+      con \xE9l."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Pase lo que pase.
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Siempre me va a tener.
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "S\xED, pero no si su madre no duerme o se quita su comida para d\xE1rsela
+      a \xE9l. En el nuevo mundo te necesitar\xE1 a t\xED."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "El juguete dejar\xE1 de importarle al crecer, su madre le importar\xE1
+      para siempre."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: ...
+    npcName: Anna
+    slowText: 1
+    thinking: 0
+    methodName: 
+    options: []
+  - message: No creo que pueda perder a sus dos padres y estar solo en un planeta
+      desconocido.
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Llevas raz\xF3n. Est\xE1 bien, si no queda m\xE1s remedio te lo daremos.
+      La raci\xF3n nos vendr\xE1 bien."
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Pero te pido que lo reconsideres por \xFAltima vez. No quiero tener
+      que quitarle su apoyo al peque\xF1o."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options:
+    - text: Necesitamos reparar la nave.
+      number: 1
+      methodName: 
+      response: {fileID: 11400000, guid: fac9638f1d0b82c4e9d68c7821b33dda, type: 2}
+      needFood: 0
+    - text: "No, he cambiado de opini\xF3n. El ni\xF1o no tiene que pasarlo mal."
+      number: 2
+      methodName: 
+      response: {fileID: 11400000, guid: 364d2e8130be1f9499e0b93c9ea9289e, type: 2}
+      needFood: 0

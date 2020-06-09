@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day5-Criminal-D-B
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "\xBFNo crees que vayamos a llegar?"
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "T\xFA mismo te has puesto nervioso con cada fallo. No, creo que esta
+      vez tenemos un problema muy grande en la nave."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Esto no es simplemente que los motores son demasiado viejos. Se ha roto
+      un motor entero.
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Si ma\xF1ana hay otro fallo y no lo puedo arreglar no llegaremos."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "No podemos arriesgarnos a que empeore la situaci\xF3n."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Es cierto, con otro fallo caeremos. Ya hemos usado todo lo que tenemos.
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Sin arreglarlo no llegaremos. No queda m\xE1s remedio."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Exacto.
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Est\xE1 bien, pero quiero el mismo trato que el resto: dame una raci\xF3n.
+      No aguantar\xE9 sin comer."
+    npcName: Criminal
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options:
+    - text: "Toma la \xFAltima raci\xF3n que me queda."
+      number: 1
+      methodName: 
+      response: {fileID: 11400000, guid: 9f662a47ab0caa1409f9f07fba7b7bd6, type: 2}
+      needFood: 1
+    - text: No me quedan raciones.
+      number: 2
+      methodName: 
+      response: {fileID: 11400000, guid: cd94997c67d37e041be39bc3d5ca945f, type: 2}
+      needFood: 0

@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day1_Criminal
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "\xA1Maldito trasto! \xA1Abre la puerta!"
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Lo siento pero no puedo *bip* a la habitaci\xF3n."
+    npcName: IA
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xA1No acepto \xF3rdenes de nadie! Pienso abrir la puerta quieras o
+      no."
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xA1Tranquilo! No tienes que destrozar la nave."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFDestrozar? \xBFEste trasto? \xA1Ja! Tampoco hace falta esforzarse
+      mucho."
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "As\xED no ayudas."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Pst, no te equivoques. Que estemos aqu\xED metidos no nos convierte
+      en amiguitos."
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFTienes algo que pueda usar para arreglar el motor? Eso si ser\xEDa
+      \xFAtil."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "No, sigue buscando. Pero yo probar\xE9 a arreglar la nave a mi manera."
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []

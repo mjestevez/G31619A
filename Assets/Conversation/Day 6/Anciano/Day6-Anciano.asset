@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day6-Anciano
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "\xBFPodr\xE1s bajar solo?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "S\xED, no hay nada que pueda conmigo."
+    npcName: Noah
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Respirar aire puro de nuevo, es mi fantas\xEDa."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Vendr\xE1n otras naves."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: No tengo confianza en que mi mujer venga en otra nave.
+    npcName: Noah
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Ni yo en que vengan mis compa\xF1eras."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Pero no debemos perder la esperanza. No soy ni la mejor ingeniera del
+      grupo.
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Pero si eres la persona m\xE1s humana que he tenido la suerte de conocer."
+    npcName: Noah
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: " Has hecho mucho por nosotros, jam\xE1s lo olvidar\xE9."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Cuidate mucho Juno.
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Y t\xFA, no olvides visitarme cu\xE1ndo tengas tu nueva pierna."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []

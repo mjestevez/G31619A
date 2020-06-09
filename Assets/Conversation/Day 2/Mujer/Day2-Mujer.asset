@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day2-Mujer
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "\xBFEst\xE1s bien, mam\xE1? Tienes sombras en los ojos."
+    npcName: David
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "No te preocupes cari\xF1o. Solo es de dormir mal. \xBFTienes tu juguete?"
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xA1S\xED!"
+    npcName: David
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFQu\xE9 tal todo?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Vamos camino de abrirnos la cabeza como la nave se agite un poco m\xE1s.
+      \xBFLo vas a arreglar?"
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Har\xE9 lo que pueda. \xBFTen\xE9is algo que pueda usar? Tiene que
+      ser un objeto met\xE1lico y cil\xEDndrico."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: No creo. Voy a revisar en mi mochila.
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFCon qu\xE9 juegas?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Es mi mu\xF1eco. Me ha acompa\xF1ado desde siempre. \xA1Es mi favorito!"
+    npcName: David
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Claro claro, normal.
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Es justo lo que necesitar\xEDa para arreglarlo."
+    npcName: 
+    slowText: 0
+    thinking: 1
+    methodName: 
+    options: []
+  - message: "\xBFTe servir\xEDan latas?"
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: No lo creo. El metal de las latas es muy endeble.
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Pues no se me ocurre otra cosa que te pueda servir.
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: ...
+    npcName: Juno
+    slowText: 1
+    thinking: 0
+    methodName: 
+    options: []
+  - message: ...
+    npcName: Anna
+    slowText: 0.5
+    thinking: 0
+    methodName: 
+    options: []
+  - message: ...
+    npcName: Juno
+    slowText: 0.5
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFOtra vez quieres algo? Ya discutimos ayer por el anillo."
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: El juguete de tu hijo es perfecto para esto.
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Ni hablar.
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Pero...
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Ni hablar.
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options:
+    - text: Intentar convencerla
+      number: 1
+      methodName: 
+      response: {fileID: 11400000, guid: e62fc99c176a94b40a85ae0983128324, type: 2}
+      needFood: 0
+    - text: "Hablar con el ni\xF1o "
+      number: 2
+      methodName: 
+      response: {fileID: 11400000, guid: 5999c24988b7d4e419ceb0b450179128, type: 2}
+      needFood: 0

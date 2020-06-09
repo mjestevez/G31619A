@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day5-Criminal-A
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "As\xED que lo necesitas para arreglar la nave. \xA1Qu\xE9 casualidad!"
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Casualmente tengo el objeto que necesitas para salvar el d\xEDa. No
+      te sirve nada m\xE1s, tiene que ser esta arma."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Exactamente.
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFNo tienes alg\xFAn otro objeto sentimental que destruir para salvarnos?
+      \xBFMi ojo no te servir\xEDa?"
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Mira, estoy harto de que te aproveches de nuestros punto d\xE9biles.
+      Me da la sensaci\xF3n de que solo lo haces para destruirnos mentalmente y alzarte
+      con la reina de este sitio."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFEst\xE1s locos? \xA1T\xFA fuiste el primero que robo una pr\xF3tesis
+      para arreglar la nave!"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Siguiendo la t\xF3nica habitual. Siempre son objetos queridos y necesarios
+      para seguir adelante. \xBFY t\xFA que has dado para la nave?"
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options:
+    - text: Mis herramientas.
+      number: 1
+      methodName: 
+      response: {fileID: 11400000, guid: 517bd738e36ba3745976a31a9f1f0cc6, type: 2}
+      needFood: 0
+    - text: "Yo no me he quedado ninguna raci\xF3n para m\xED misma."
+      number: 2
+      methodName: 
+      response: {fileID: 11400000, guid: 7ed34efc020be1041892846477b8bcad, type: 2}
+      needFood: 0

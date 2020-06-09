@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day1-Anciano2
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "\xBFQu\xE9 tal vas?"
+    npcName: Noah
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Estoy buscando la forma de arreglar la nave.
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xA1Mucho \xE1nimo! Tengo la sensaci\xF3n de que te va a costar mucho
+      mantener a este grupo tranquilo durante el viaje."
+    npcName: Noah
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Es entendible. Todos aqu\xED nos lo hemos jugado todo por estar aqu\xED."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Y casi todos venimos solos.
+    npcName: Noah
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Espero que mis amigas est\xE9n a salvo."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Y yo espero que mi mujer y mis amigos tambi\xE9n."
+    npcName: Noah
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Seguir\xE9 buscando."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []

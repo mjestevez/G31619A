@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day2-Mujer-A-B
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "De peque\xF1o no dejaba de llorar. Nunca."
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Todo empez\xF3 una noche en la que nos despert\xF3 un ruido. Alguien
+      hab\xEDa entrado en la casa por una ventana que hab\xEDa roto."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Nos volvimos locos durante d\xEDas buscando al culpable. Nada faltaba
+      ni nadie hab\xEDa entrado."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Pero por entonces *Ni\xF1o* ya romp\xEDa a llorar de cu\xE1ndo en cu\xE1ndo.
+      No quer\xEDa que lo dej\xE1ramos solo."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Una noche descubr\xED la raz\xF3n."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "El hombre se hab\xEDa escondido en su habitaci\xF3n. En el armario."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Cada vez que se encontraba solo sal\xEDa en busca de comida."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Le asustaba. Sus ojos eran de pura locura y brillaban.
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xA1Estuvo d\xEDas viviendo en la misma habitaci\xF3n que el peque\xF1o!"
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Jam\xE1s nos lo pudimos perdonar. Hab\xEDa sido una situaci\xF3n demasiado
+      extresante para \xE9l y ahora era incapaz de estar solo."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Pero un d\xEDa conseguimos un juguete de una serie muy antigua de la
+      televisi\xF3n."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Creo que ve\xEDa la fuerza en el mu\xF1eco met\xE1lico. Solo s\xE9
+      que desde entonces no se ha separado de \xE9l nunca."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Es muy duro. Ha tenido que pasarlo muy mal.
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Por eso no quiero que lo vuelva a pasar mal nunca m\xE1s."
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Pero para eso deber\xEDamos arreglar la nave."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Lo siento pero no.
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options:
+    - text: "Hablar con el ni\xF1o"
+      number: 1
+      methodName: 
+      response: {fileID: 11400000, guid: 5999c24988b7d4e419ceb0b450179128, type: 2}
+      needFood: 0

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day1-Mujer-B
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "La propia IA ha dicho que la rotura tardar\xEDa en afectar a la nave.
+      Hay tiempo de encontrar una soluci\xF3n."
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Bueno s\xED, es cierto pero es un riesgo. Si no lo arreglamos podr\xEDa
+      ir a m\xE1s. Quiz\xE1s ma\xF1ana necesitamos otra cosa."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Mira, si te vale con otra cosa prefiero cualquier otra cosa antes que
+      darte el anillo. Seguro que hay otras opciones.
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: No, ese anillo es perfecto para esto.
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Insistes mucho.
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options:
+    - text: "Os aliment\xE1is por doble. Seguro que os vendr\xEDa genial una raci\xF3n
+        extra para seguir el viaje."
+      number: 1
+      methodName: 
+      response: {fileID: 11400000, guid: f5390e4546bc5ae49bf8103aa94c6cc5, type: 2}
+      needFood: 0
+    - text: "Llevas raz\xF3n, quiz\xE1s podamos aguantar un poco m\xE1s antes de
+        arreglarlo."
+      number: 2
+      methodName: 
+      response: {fileID: 11400000, guid: 1bd81d517e7b8734c9f757039df01cd6, type: 2}
+      needFood: 0

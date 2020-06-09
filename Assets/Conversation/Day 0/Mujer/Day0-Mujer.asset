@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day0-Mujer
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "Buenos d\xEDas. Parece que ya tenemos sitio para descansar. \xA1Ya
+      estamos acoplados! "
+    npcName: 'Anna '
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xA1Bien! "
+    npcName: 'David '
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Oh, encantada. Yo soy Anna y \xE9l es David. "
+    npcName: 'Anna '
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: 'Encantada. Yo soy Juno. '
+    npcName: 'Juno '
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Bueno, vamos a jugar un rato y hacemos el viaje m\xE1s corto. \xA1Vamos! "
+    npcName: 'Anna '
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xA1Bien! "
+    npcName: 'David '
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: 'Mm... Tiene los ojos rojos como si acabara de llorar. '
+    npcName: 'Juno '
+    slowText: 0
+    thinking: 1
+    methodName: 
+    options: []
+  - message: "Por fin lo hemos conseguido, lo vamos a hacer cari\xF1o. Como sea. "
+    npcName: 'Anna '
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFEst\xE1s bien? "
+    npcName: 'Juno '
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xA1A ti que te importa! "
+    npcName: 'Anna '
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xA1Vaya caracter! Parece que lo est\xE1 pasando mal. "
+    npcName: 'Juno '
+    slowText: 0
+    thinking: 1
+    methodName: 
+    options: []

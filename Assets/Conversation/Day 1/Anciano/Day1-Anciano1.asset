@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day1-Anciano1
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "Jam\xE1s olvidar\xE9 el color de aquellos \xE1rboles, de verdad te
+      digo. A pesar de los a\xF1os sigo teniendolo en mi cabeza."
+    npcName: Noah
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Pues no se. Yo hace a\xF1os que no veo los \xE1rboles de color verde.
+      Desde que era un cr\xEDo. \xBFCu\xE1ntos a\xF1os dices que tienes?"
+    npcName: Adal
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "No estoy seguro. Desde que el verde se perdi\xF3 solo recuerdo el trabajo,
+      con las manos manchadas de suciedad."
+    npcName: Noah
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "El fr\xEDo, es el recuerdo m\xE1s n\xEDtido. Siempre hace fr\xEDo,
+      por mucha ropa que te pongas."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Los \xFAltimos a\xF1os fueron horribles. Sin nada que comer y teniendo
+      que enterrar a todos tus vecinos. He perdido la cuenta de cu\xE1ntos cuerpos
+      he tenido que quemar porque no se descompon\xEDan."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "No se si alg\xFAn d\xEDa me quitar\xE9 el hedor de la nariz."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Lo entiendo perfectamente pero,...
+    npcName: Adal
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Me voy, Cof cof cof.
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Hola Juno. \xBFQu\xE9 piensas de \xE9l?"
+    npcName: Noah
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFDe Adal? Apenas le conozco."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Creo que le veo muy palido. No se.
+    npcName: Noah
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []

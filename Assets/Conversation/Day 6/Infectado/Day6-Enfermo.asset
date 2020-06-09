@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day6-Enfermo
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "\xBFC\xF3mo te sientes?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Fatal. Como si me hubieran atropellado.
+    npcName: Adal
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFEl medicamento no te hace efecto?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Me avisaron de que ir\xEDa a peor, pero estoy tranquilo. D\xF3nde vamos
+      seguro que tienen algo para ayudarme."
+    npcName: Adal
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Por supuesto. Pronto volver\xE1s a las andadas."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Espero verte all\xED."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Me ver\xE1s. Tengo que contar nuestra historia. Quiz\xE1s seamos la
+      \xFAltima flota que ha partido de la Tierra. Tienen que saber lo que han dejado
+      atr\xE1s."
+    npcName: Adal
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: No dejaremos que olviden la Tierra.
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []

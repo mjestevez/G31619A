@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day2-IA
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "\xBFQu\xE9 haces aqu\xED fuera?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Doy por hecho que *bip* este desastre y necesito tu ayuda.
+    npcName: IA
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Si que tienes un cuerpo.
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "S\xED, pero soy incapaz de usarlo para ninguna tarea manual."
+    npcName: IA
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Entiendo. Necesitar\xE9 hacer un peque\xF1o contacto en el protector
+      del giroscopio."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Seguimos sin tener piezas.
+    npcName: IA
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFQu\xE9 ocurrir\xE1 si no se arregla?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Aparte del malestar se forzar\xE1n los motores m\xE1s de lo normal.
+      Con el tiempo eso *bip* un da\xF1o m\xE1s grave, pero es dif\xEDcil saber *bip*
+      cu\xE1nto tiempo."
+    npcName: IA
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Una situaci\xF3n similar a la de ayer. "
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Afirmativo.
+    npcName: IA
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []

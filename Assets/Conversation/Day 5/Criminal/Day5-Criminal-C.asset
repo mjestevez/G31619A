@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day5-Criminal-C
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "Porque me hart\xE9 de que me trataran como basura. Estaba harto de
+      ser un cero a la izquierda y que cada nueva l\xEDnea de m\xE1quinas me echara
+      un paso m\xE1s al abismo."
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Yo inici\xE9 la revoluci\xF3n de la industria. Reun\xED a un grupo
+      y les anim\xE9 a destruirlo todo, a coger lo que es nuestro."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Cu\xE1ndo empezamos a tomar la justicia por nuestra mano todo fue bien.
+      Nada pod\xEDa detenernos, los restos del gobierno no eran suficientes para
+      detenernos."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Desde entonces no acepto tonter\xEDas de nadie. La \xFAnica forma de
+      hacer las cosas es hacerlas por t\xED mismo."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Y esa filosof\xEDa me ha llevado d\xF3nde estoy hoy. No la pienso cambiar
+      por nada."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options:
+    - text: "Si morimos aqu\xED todo lo que has hecho no habr\xE1 servido para nada."
+      number: 1
+      methodName: 
+      response: {fileID: 11400000, guid: 3988b7a47b3794d47b19f3ede5873bc5, type: 2}
+      needFood: 0
+    - text: "\xBFQu\xE9 pasa con toda la gente que ha muerto por tu culpa?"
+      number: 2
+      methodName: 
+      response: {fileID: 11400000, guid: 021154d3d7302c94c8b9a156b6706d0b, type: 2}
+      needFood: 0

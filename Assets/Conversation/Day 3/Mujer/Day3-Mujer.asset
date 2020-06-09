@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day3-Mujer
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "No tengo nada m\xE1s que pueda darte."
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Vale vale, calma. Te aseguro que no te quitar\xE9 nada m\xE1s. Solo
+      quer\xEDa hablar."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Est\xE1 bien, adelante."
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFC\xF3mo va todo?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: '*Llora*'
+    npcName: David
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: La falta de luz le pone muy nervioso. Estoy tratando de calmarle.
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Por lo dem\xE1s no me puedo quejar demasiado. Seguimos vivo y eso parece
+      suficiente."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Siento mucho lo que te hecho pasar estos dos d\xEDas."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Ya, bueno. Al final todo se ha resuelto. Ya queda menos para llegar,
+      que es lo importante.
+    npcName: Anna
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Exacto. Bueno, a ver que puedo hacer.
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []

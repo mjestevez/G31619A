@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day2-Criminal
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "\xBFQu\xE9 quieres?"
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "El giroscopio est\xE1 estropeado."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "S\xED, ya he visto que la IA ha salido a buscarte. \xBFAhora la m\xE1quina
+      te considera mejor que yo?"
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFMe vas a ayudar?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFMe obligar\xE1s?"
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: No.
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Lo supon\xEDa. \xBFHas hablado con nuestro particular enfermo? A lo
+      mejor puedes usar su mascarilla. Total, nos habr\xE1 infectado ya a todos para
+      estas alturas."
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFQu\xE9? \xA1No! Est\xE1 enfermo y la necesita para respirar."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Pues entonces espero que sepas fabricar m\xE1s porque estamos atrapados
+      con \xE9l. Sea lo que sea ser\xE1 contagioso. Seguro que tiene p\xFAstulas
+      por todas partes."
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Parte de mi grupo muri\xF3 por culpa de esa enfermedad. Estaban bien
+      y en un par de d\xEDas estiraron la pata."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Escucha, es contiagoso. El ej\xE9rcito lo lanza en granadas de humo.
+      Cu\xE1ndo respiras est\xE1s muerto, es cuesti\xF3n de d\xEDas."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Para eso tendr\xEDas que hacer algo que molestara al gobierno como
+      para querer matarte de una forma tan horrible."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Antes de desaparecer al gobierno le molestaba toda persona que siguiera
+      respirando.
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Ya, claro. Mira, buscar\xE9 por otro lado."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []

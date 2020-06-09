@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day3-Cimininal-A
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "\xBFY cu\xE1l es? \xBFDarle comida a cambio de su pieza? \xBFEso nos
+      est\xE1 llevando a algo?"
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "S\xED, a que nadie tiene que robar nada para que todos podamos seguir.
+      Todos estamos haciendo el esfuerzo pero nos cuesta deshacernos de nuestras
+      cosas."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Es nuestra vida. No puedes arrebatar a alguien su forma de andar o
+      el \xFAltimo recuerdo de su marido porque s\xED."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFAh no? A m\xED me lo han hecho toda la vida. Callaba y callaba
+      hasta que me hart\xE9. El d\xEDa que empec\xE9 a tomar las cosas por la fuerza
+      dejaron de pasarme por encima."
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Esa aptitud no ayudar\xE1 a nadie. Y aqu\xED estamos para llegar todos."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFTodos? No creo que lleguemos todos."
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Mi compromiso es que lleguemos todos. Podemos sobrevivir y llegaremos
+      a nuestro destino.
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "All\xED no tendr\xE1s que pelearte con nadie nunca m\xE1s. Tendremos
+      una oportunidad de ser mejores personas que las que fuimos antes."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Se que tienes bastantes fantasmas a tu alrededor pero tienes la posibilidad
+      de dejarles atr\xE1s y ser el mejor t\xFA que puedes ser."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "No se si puedo confiar en t\xED."
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: No tienes muchas opciones.
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "No me f\xEDo de Adal."
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Much\xEDsima gente enferm\xF3 por culpa de las mutaciones en la comida.
+      No creo que sea nada importante."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFVas a salir?"
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: No, necesitamos usar la pieza para arreglar la nave.
+    npcName: Oliver
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options:
+    - text: Eso lo debe decidir Noah.
+      number: 1
+      methodName: 
+      response: {fileID: 11400000, guid: 1d9cc5816d3ea75498df874f6ebbd996, type: 2}
+      needFood: 0
+    - text: "Noah tiene muchas razones para darnos la pr\xF3tesis."
+      number: 2
+      methodName: 
+      response: {fileID: 11400000, guid: 8f501353ad920f045afa14c726d0233b, type: 2}
+      needFood: 0

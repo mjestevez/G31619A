@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day4-Inicio
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "\xA1Qu\xE9 maravilla! Me he levantado y la nave no  tiene problemas.
+      Es una verdadera alegr\xEDa."
+    npcName: Juno
+    slowText: 0
+    thinking: 1
+    methodName: 
+    options: []
+  - message: "*Cof* *Cof* *cof* *cof* parece que todo va bien en la nave. Que extra\xF1o."
+    npcName: Adal
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: '*Sorbe de su inhalador*'
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Atenci\xF3n, vamos a pasar por un campo de asteroides. Aconsejo sujetarse
+      bien."
+    npcName: IA
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFQu\xE9? \xBFAs\xED de repente? \xA1Sujetaos!"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: ...
+    npcName: 
+    slowText: 1
+    thinking: 0
+    methodName: Temblor
+    options: []
+  - message: "Buenas noticias, hemos superado el campo de asteroides y la nave sigue
+      \xEDntegra."
+    npcName: IA
+    slowText: 0
+    thinking: 0
+    methodName: IAAudio
+    options: []
+  - message: "Retiro lo dicho: Hay una peque\xF1a brecha en la maquinaria de la nave.
+      El aparato que expulsa el di\xF3xido de carbono se ha roto y en su lugar hay
+      un agujero."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: Temblor
+    options: []
+  - message: "El ox\xEDgeno se ir\xE1 escapando por la brecha. Estoy doblando las
+      revoluciones del motor para poder aumentar el ox\xEDgeno de la nave y *bip*
+      evitar muertes.\r"
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Lo que faltaba, ahora sin ox\xEDgeno. Espera, intentar\xE9 arreglarlo."
+    npcName: Adal
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Eso suena a una rotura super espec\xEDfica. Hay que tapar el agujero,
+      eso sin duda pero tenemos que dejar pasar el di\xF3xido de carbono o nos ahogaremos."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Podr\xEDa improvisar algo con las piezas sueltas pero sin algo que
+      pueda expulsar el di\xF3xido de carbono lo pasaremos mal."
+    npcName: 
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []

@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 600080b928b3e38469747cd67cb69104, type: 3}
+  m_Name: Day1-Enfermo
+  m_EditorClassIdentifier: 
+  menssages:
+  - message: "Creo que no te podr\xE9 ayudar mucho hoy. Me duele."
+    npcName: Adal
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "\xBFEst\xE1s bien?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: Llevo ya enfermo varias semanas. Uno se *cof* *cof* acostumbra.
+    npcName: Adal
+    slowText: 0
+    thinking: 0
+    methodName: Toser
+    options: []
+  - message: "\xBFY qu\xE9 enfermedad es?"
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Una de esas nuevas que ha nacido por la contaminaci\xF3n en fase 5.
+      S\xEDntomas diversos y que atacan cu\xE1ndo menos te lo esperas."
+    npcName: Adal
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: "Pero en nuestro destino podr\xEDan ayudarte."
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
+  - message: '*Cof* *Cof* Eso parece.'
+    npcName: Adal
+    slowText: 0
+    thinking: 0
+    methodName: Toser
+    options: []
+  - message: Descansa, buscare por otro lugar.
+    npcName: Juno
+    slowText: 0
+    thinking: 0
+    methodName: 
+    options: []
